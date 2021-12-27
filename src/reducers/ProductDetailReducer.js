@@ -12,9 +12,7 @@ const INITIAL_STATE = {
 };
 
 export default function ProductDetailReducer(state = INITIAL_STATE, action) {
-  console.log(action.payload, "ProductDetailReducerss");
   switch (action.type) {
-    
     case ADD_TO_CART:
       return {
         ...state,

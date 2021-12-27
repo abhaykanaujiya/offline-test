@@ -6,7 +6,7 @@ import "./cart.css";
 const Cart = (props) => {
   const products = props.productList;
   const filterProduct = products.filter((items) => items.quantity > 0);
-  console.log(filterProduct, "qqqqqq");
+
   const calculation = () => {
     let sum = 0;
     let i;

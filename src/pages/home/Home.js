@@ -10,7 +10,6 @@ import MainWrapper from "../../components/Wrapper";
 import "./home.css";
 
 function ProductList(props) {
-  console.log(props.productList, "cartitems");
   const addToCart = (selectedProduct) => {
     props.handleAddToCart(selectedProduct, props.productList);
   };
@@ -28,7 +27,6 @@ function ProductList(props) {
     );
   };
 
-  console.log(props.productList, "product list");
   return (
     <MainWrapper>
       <div className='render-cards'>

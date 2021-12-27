@@ -25,7 +25,6 @@ const Auth = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     props.history.push("/product");
-    console.log(props, "devesh");
   };
 
   return (
