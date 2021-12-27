@@ -1,0 +1,833 @@
+{
+  "payload": {
+    "products": [
+      {
+        "product_id": "9zui2",
+        "name": " mirror lace net",
+        "slug": "mirror-lace-net-embroidery-work-saree",
+        "price": 518,
+        "original_price": 518,
+        "transient_price": 418,
+        "discount": 19,
+        "quantity": 0,
+        "images": [
+          "https://images.meesho.com/images/products/16789034/382e4_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 6,
+        "review_summary": {
+          "average_rating": 4.1,
+          "rating_count_map": { "1": 8, "2": 4, "3": 4, "4": 7, "5": 41 },
+          "review_count": 27,
+          "rating_count": 64
+        },
+        "minimum_product_price": 518,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 79105,
+            "2": 51864,
+            "3": 106961,
+            "4": 182370,
+            "5": 379550
+          },
+          "average_rating": 3.9,
+          "rating_scale": 5,
+          "review_count": 375478,
+          "rating_count": 799850
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "q3f4s",
+        "name": " New Latest Mirror",
+        "slug": "new-latest-mirror-work-sarees",
+        "price": 981,
+        "original_price": 981,
+        "transient_price": 881,
+        "quantity": 0,
+
+        "discount": 10,
+        "images": [
+          "https://images.meesho.com/images/products/43829596/3xwbh_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 5,
+        "review_summary": {
+          "average_rating": 5,
+          "rating_count_map": { "1": 0, "2": 0, "3": 0, "4": 0, "5": 4 },
+          "review_count": 1,
+          "rating_count": 4
+        },
+        "minimum_product_price": 981,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 161,
+            "2": 91,
+            "3": 126,
+            "4": 184,
+            "5": 496
+          },
+          "average_rating": 3.7,
+          "rating_scale": 5,
+          "review_count": 307,
+          "rating_count": 1058
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "qople",
+        "name": " Ensemb Sarees",
+        "slug": "aagyeyi-ensemble-sarees",
+        "price": 367,
+        "original_price": 367,
+        "transient_price": 267,
+        "discount": 27,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/44822930/vl71u_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 6,
+        "review_summary": {
+          "average_rating": 3.6,
+          "rating_count_map": { "1": 1, "2": 1, "3": 1, "4": 2, "5": 3 },
+          "review_count": 4,
+          "rating_count": 8
+        },
+        "minimum_product_price": 367,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 272,
+            "2": 153,
+            "3": 218,
+            "4": 251,
+            "5": 663
+          },
+          "average_rating": 3.6,
+          "rating_scale": 5,
+          "review_count": 367,
+          "rating_count": 1557
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "6m192",
+        "name": " Kashvi new Sarees",
+        "slug": "kashvi-attractive-sarees",
+        "price": 458,
+        "original_price": 458,
+        "transient_price": 358,
+        "discount": 22,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/11105750/c8ebe_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 3,
+        "review_summary": {
+          "average_rating": 4.1,
+          "rating_count_map": { "1": 34, "2": 21, "3": 34, "4": 81, "5": 202 },
+          "review_count": 103,
+          "rating_count": 372
+        },
+        "minimum_product_price": 458,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 810,
+            "2": 425,
+            "3": 721,
+            "4": 1142,
+            "5": 3042
+          },
+          "average_rating": 3.8,
+          "rating_scale": 5,
+          "review_count": 1995,
+          "rating_count": 6140
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "w1age",
+        "name": " Women Anarkali Kurti",
+        "slug": "womens-printed-anarkali-kurti",
+        "price": 287,
+        "original_price": 287,
+        "transient_price": 201,
+        "discount": 30,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/53807918/pd3yw_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 6,
+        "review_summary": {
+          "average_rating": 3.7,
+          "rating_count_map": { "1": 56, "2": 28, "3": 83, "4": 98, "5": 181 },
+          "review_count": 98,
+          "rating_count": 446
+        },
+        "minimum_product_price": 287,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 4808,
+            "2": 2804,
+            "3": 4589,
+            "4": 6320,
+            "5": 15934
+          },
+          "average_rating": 3.7,
+          "rating_scale": 5,
+          "review_count": 10844,
+          "rating_count": 34455
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹86 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "uwmg1",
+        "name": " Jivi Ensemb Kurtis",
+        "slug": "jivika-ensemble-kurtis",
+        "price": 589,
+        "original_price": 589,
+        "transient_price": 489,
+        "discount": 17,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/51910561/yaiua_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 3,
+        "minimum_product_price": 589,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 293,
+            "2": 216,
+            "3": 476,
+            "4": 1090,
+            "5": 2660
+          },
+          "average_rating": 4.2,
+          "rating_scale": 5,
+          "review_count": 1616,
+          "rating_count": 4735
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "qn70b",
+        "name": " Trendy Blouse",
+        "slug": "trendy-blouse",
+        "price": 374,
+        "original_price": 374,
+        "transient_price": 274,
+        "discount": 27,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/44752187/gruap_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 8,
+        "review_summary": {
+          "average_rating": 3.8,
+          "rating_count_map": { "1": 0, "2": 1, "3": 0, "4": 2, "5": 1 },
+          "review_count": 2,
+          "rating_count": 4
+        },
+        "minimum_product_price": 374,
+        "supplier_reviews_summary": {
+          "rating_count_map": { "1": 27, "2": 16, "3": 14, "4": 23, "5": 54 },
+          "average_rating": 3.5,
+          "rating_scale": 5,
+          "review_count": 36,
+          "rating_count": 134
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": " 1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "vtimp",
+        "name": "Jivika Fashionable Salwar ",
+        "slug": "jivika-fashionable-salwar-suits--dress-materials",
+        "price": 389,
+        "original_price": 389,
+        "transient_price": 289,
+        "discount": 26,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/53445265/pvl4w_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 3,
+        "review_summary": {
+          "average_rating": 2.8,
+          "rating_count_map": { "1": 1, "2": 0, "3": 2, "4": 1, "5": 0 },
+          "review_count": 2,
+          "rating_count": 4
+        },
+        "minimum_product_price": 389,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 1806,
+            "2": 987,
+            "3": 1690,
+            "4": 2436,
+            "5": 5973
+          },
+          "average_rating": 3.8,
+          "rating_scale": 5,
+          "review_count": 3708,
+          "rating_count": 12892
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": " 1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "8v8ow",
+        "name": " Aagyeyi Petite Kurtis",
+        "slug": "aagyeyi-petite-kurtis",
+        "price": 362,
+        "original_price": 362,
+        "transient_price": 262,
+        "discount": 28,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/14894528/95601_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 3,
+        "review_summary": {
+          "average_rating": 3.6,
+          "rating_count_map": { "1": 6, "2": 4, "3": 10, "4": 8, "5": 17 },
+          "review_count": 16,
+          "rating_count": 45
+        },
+        "minimum_product_price": 362,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 1975,
+            "2": 1348,
+            "3": 2393,
+            "4": 3622,
+            "5": 8814
+          },
+          "average_rating": 3.9,
+          "rating_scale": 5,
+          "review_count": 5023,
+          "rating_count": 18152
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": " 1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "suwr3",
+        "name": " Kashvi Attractive Kurtis",
+        "slug": "kashvi-attractive-kurtis",
+        "price": 361,
+        "original_price": 361,
+        "transient_price": 261,
+        "discount": 28,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/48471375/nppql_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 3,
+        "review_summary": {
+          "average_rating": 3.9,
+          "rating_count_map": { "1": 39, "2": 32, "3": 68, "4": 89, "5": 223 },
+          "review_count": 71,
+          "rating_count": 451
+        },
+        "minimum_product_price": 349,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 170,
+            "2": 128,
+            "3": 320,
+            "4": 450,
+            "5": 961
+          },
+          "average_rating": 3.9,
+          "rating_scale": 5,
+          "review_count": 461,
+          "rating_count": 2029
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "511vn",
+        "name": " Fancy Jacquard Suit",
+        "slug": "fancy-jacquard-suit",
+        "price": 424,
+        "original_price": 424,
+        "transient_price": 324,
+        "discount": 24,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/8447171/737fa_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 6,
+        "review_summary": {
+          "average_rating": 3.9,
+          "rating_count_map": { "1": 1, "2": 0, "3": 3, "4": 3, "5": 5 },
+          "review_count": 6,
+          "rating_count": 12
+        },
+        "minimum_product_price": 394,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 210,
+            "2": 158,
+            "3": 312,
+            "4": 430,
+            "5": 1077
+          },
+          "average_rating": 3.9,
+          "rating_scale": 5,
+          "review_count": 649,
+          "rating_count": 2187
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": " 1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "4h3ob",
+        "name": " Cotton Silk Saree",
+        "slug": "beautiful-cotton-silk-saree",
+        "price": 468,
+        "original_price": 468,
+        "transient_price": 368,
+        "discount": 21,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/7516379/4ef22_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 2,
+        "review_summary": {
+          "average_rating": 4.3,
+          "rating_count_map": { "1": 3, "2": 1, "3": 5, "4": 7, "5": 31 },
+          "review_count": 17,
+          "rating_count": 47
+        },
+        "minimum_product_price": 446,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 470,
+            "2": 303,
+            "3": 520,
+            "4": 926,
+            "5": 2219
+          },
+          "average_rating": 3.9,
+          "rating_scale": 5,
+          "review_count": 1441,
+          "rating_count": 4438
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "1q5li",
+        "name": " Women Kurti Combo of 2",
+        "slug": "womens-crepe-printed-kurti-combo-of-2",
+        "price": 406,
+        "original_price": 406,
+        "transient_price": 306,
+        "discount": 25,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/2899926/1_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 6,
+        "review_summary": {
+          "average_rating": 3.8,
+          "rating_count_map": { "1": 4, "2": 3, "3": 2, "4": 7, "5": 13 },
+          "review_count": 7,
+          "rating_count": 29
+        },
+        "minimum_product_price": 406,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 8524,
+            "2": 5152,
+            "3": 9131,
+            "4": 13323,
+            "5": 28125
+          },
+          "average_rating": 3.7,
+          "rating_scale": 5,
+          "review_count": 24638,
+          "rating_count": 64255
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "as1fl",
+        "name": " Women Cotton Dress",
+        "slug": "women-gown-multicolor-cotton-dress",
+        "price": 609,
+        "original_price": 609,
+        "transient_price": 509,
+        "discount": 16,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/18104385/b5824_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 7,
+        "review_summary": {
+          "average_rating": 3.9,
+          "rating_count_map": { "1": 5, "2": 0, "3": 4, "4": 9, "5": 16 },
+          "review_count": 14,
+          "rating_count": 34
+        },
+        "minimum_product_price": 609,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 134,
+            "2": 113,
+            "3": 205,
+            "4": 409,
+            "5": 833
+          },
+          "average_rating": 4,
+          "rating_scale": 5,
+          "review_count": 480,
+          "rating_count": 1694
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "kmpqj",
+        "name": " Aishani Pretty Sarees",
+        "slug": "aishani-pretty-sarees",
+        "price": 488,
+        "original_price": 488,
+        "transient_price": 388,
+        "discount": 20,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/34652107/rs2ao_512.jpg"
+        ],
+
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 0,
+        "review_summary": {
+          "average_rating": 3.7,
+          "rating_count_map": { "1": 3, "2": 5, "3": 5, "4": 6, "5": 15 },
+          "review_count": 8,
+          "rating_count": 34
+        },
+        "minimum_product_price": 488,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 427,
+            "2": 289,
+            "3": 547,
+            "4": 811,
+            "5": 2030
+          },
+          "average_rating": 3.9,
+          "rating_scale": 5,
+          "review_count": 1287,
+          "rating_count": 4104
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "shdgs",
+        "name": " Kashvi Ensemble Kurtis",
+        "slug": "kashvi-ensemble-kurtis",
+        "price": 397,
+        "original_price": 397,
+        "transient_price": 297,
+        "discount": 25,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/47839852/nvp3u_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 4,
+        "review_summary": {
+          "average_rating": 4.1,
+          "rating_count_map": { "1": 43, "2": 34, "3": 71, "4": 94, "5": 298 },
+          "review_count": 111,
+          "rating_count": 540
+        },
+        "minimum_product_price": 397,
+        "supplier_reviews_summary": {
+          "rating_count_map": { "1": 44, "2": 35, "3": 72, "4": 94, "5": 301 },
+          "average_rating": 4,
+          "rating_scale": 5,
+          "review_count": 111,
+          "rating_count": 546
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "uhu8g",
+        "name": " Banita Sensational Kurtis",
+        "slug": "banita-sensational-kurtis",
+        "price": 417,
+        "original_price": 417,
+        "transient_price": 317,
+        "discount": 24,
+        "quantity": 0,
+
+        "images": [
+          "https://images.meesho.com/images/products/51220816/4zzbq_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 3,
+        "minimum_product_price": 417,
+        "supplier_reviews_summary": {
+          "rating_count_map": { "1": 10, "2": 8, "3": 8, "4": 11, "5": 22 },
+          "average_rating": 3.5,
+          "rating_scale": 5,
+          "review_count": 13,
+          "rating_count": 59
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "mpmp6",
+        "name": "Banita Alluring Sarees",
+        "slug": "banita-alluring-sarees",
+        "price": 534,
+        "original_price": 534,
+        "transient_price": 434,
+        "quantity": 0,
+
+        "discount": 19,
+        "images": [
+          "https://images.meesho.com/images/products/38147370/npysj_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 8,
+        "review_summary": {
+          "average_rating": 3.8,
+          "rating_count_map": { "1": 3, "2": 1, "3": 2, "4": 4, "5": 9 },
+          "review_count": 7,
+          "rating_count": 19
+        },
+        "minimum_product_price": 534,
+        "supplier_reviews_summary": {
+          "rating_count_map": {
+            "1": 865,
+            "2": 485,
+            "3": 922,
+            "4": 1386,
+            "5": 3298
+          },
+          "average_rating": 3.8,
+          "rating_scale": 5,
+          "review_count": 1851,
+          "rating_count": 6956
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "stecv",
+        "name": "SILK BANDHANI SAREE",
+        "slug": "new-litchi-silk-bandhani-saree",
+        "price": 831,
+        "original_price": 831,
+        "quantity": 0,
+
+        "transient_price": 731,
+        "discount": 12,
+        "images": [
+          "https://images.meesho.com/images/products/48400879/e6fe8_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 5,
+        "minimum_product_price": 831,
+        "supplier_reviews_summary": {
+          "rating_count_map": { "1": 15, "2": 3, "3": 5, "4": 12, "5": 43 },
+          "average_rating": 3.8,
+          "rating_scale": 5,
+          "review_count": 15,
+          "rating_count": 78
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      },
+      {
+        "product_id": "r0cd1",
+        "name": "Jivika Attractive Sarees",
+        "slug": "jivika-attractive-sarees",
+        "price": 500,
+        "original_price": 500,
+        "transient_price": 400,
+        "quantity": 0,
+
+        "discount": 20,
+        "images": [
+          "https://images.meesho.com/images/products/45365653/0d6pb_512.jpg"
+        ],
+        "assured_details": {
+          "is_assured": false,
+          "message": "Best quality products from trusted suppliers."
+        },
+        "similar_designs": 6,
+        "minimum_product_price": 500,
+        "supplier_reviews_summary": {
+          "rating_count_map": { "1": 38, "2": 15, "3": 21, "4": 25, "5": 77 },
+          "average_rating": 3.5,
+          "rating_scale": 5,
+          "review_count": 53,
+          "rating_count": 176
+        },
+        "shipping": { "charges": 0, "discount": 70 },
+        "promo_offer": {
+          "name": "1st Order Discount",
+          "discount_text": "₹100 discount on 1st order"
+        }
+      }
+    ],
+    "count": 834880
+  }
+}

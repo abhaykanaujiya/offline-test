@@ -1,0 +1,38 @@
+.header_image {
+  width: 100%;
+}
+.header {
+  position: sticky;
+  top: 0;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+  background-color: rgb(235 238 237 / 97%);
+  height: 70px;
+}
+
+.header-links {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: floralwhite;
+  padding: 40px;
+}
+.header-links {
+  display: flex;
+}
+.header-links ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 18px;
+}
+.header-links ul li {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: aliceblue;
+  padding: 0px 15px;
+}
+.header-links ul li {
+  color: rgba(56, 50, 49, 0.986);
+}
