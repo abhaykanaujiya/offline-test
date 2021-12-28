@@ -1,8 +1,3 @@
-{
-  /*
-  PLEASE BEGIN THIS BY READING THE README.md FILE
-*/
-}
 import "./styles.css";
 import PieChart from "./components/PieChart";
 import StyledTable from "./components/Table";
@@ -23,17 +18,23 @@ const initialState = {
 };
 
 const reducer = (state, action) => {
-  console.log("reducer", state, action);
   switch (action.type) {
     case "INCREMENT":
       return {
         ...state,
-        // currentDate: state.currentDate.setDate() + 1
+        currentDate: action.payload,
       };
-    case "GET_PERSON_INFO":
-      return { ...state, personInfo: [...action.payload] };
+    case "DECREMENT":
+      return {
+        ...state,
+        currentDate: action.payload,
+      };
     case "GET_INITIAL_DATE":
       return { ...state, currentDate: action.payload };
+
+    case "GET_PERSON_INFO":
+      return { ...state, personInfo: [...action.payload] };
+
     case "UPDATED_LIST":
       return {
         ...state,
@@ -47,13 +48,10 @@ const reducer = (state, action) => {
 
 export default function App() {
   const [state, dispatch] = React.useReducer(reducer, initialState);
-  console.log(state.currentDate, "currentdate");
-  console.log("state", state);
 
   const getAllData = () => {
     Promise.all(endpoints)
       .then(([res1, res2]) => {
-        console.log(res1, "res1");
         const newList = [];
         res2?.data?.map((item) => {
           if (
@@ -83,15 +81,17 @@ export default function App() {
     const unVaccinated = state?.personInfo?.length - vaccinated?.length;
     return [vaccinated.length, unVaccinated];
   };
-
   const incrementDate = (date) => {
     var moment = require("moment");
+    var a = moment(date, "YYYY-MM-DD").add(1, "day");
+    var newDates = a.format("YYYY-MM-DD");
+    dispatch({ type: "INCREMENT", payload: newDates });
+  };
+  const decrementDate = (date) => {
+    var moment = require("moment");
     var a = moment(date, "YYYY-MM-DD").subtract(1, "day");
-    console.log(a.format("YYYY-MM-DD"), "moment date");
-    //   var B = new Date(date);
-    //   B.setDate(B.getDate() + 1);
-    //   console.log(B, "ppp");
-    //   dispatch({ type: "INCREMENT", });
+    var updateDates = a.format("YYYY-MM-DD");
+    dispatch({ type: "DECREMENT", payload: updateDates });
   };
 
   return (
@@ -103,6 +103,7 @@ export default function App() {
       <div className='buttons'>
         <Buttons
           handleIncrease={() => incrementDate(state.currentDate)}
+          handleDecrease={() => decrementDate(state.currentDate)}
           currentDate={state?.currentDate}
         />
       </div>
